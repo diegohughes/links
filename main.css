@@ -84,7 +84,7 @@ video {
 
 html,input,select,button {
 	/* Set body font family and some finicky elements */
-	font-family: var(--nc-font-sans);
+	font-family: var(--nc-font-mono);
 }
 
 body {
