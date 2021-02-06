@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>new.css Demo</title>
+    <title>dh/url</title>
     <meta name="description" content="A classless CSS framework to write modern websites using only HTML.">
     <meta name="keywords" content="newcss,new.css,css,xz,css framework,classless css,xz.style">
     <meta property="og:title" content="new.css">
