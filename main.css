@@ -72,6 +72,14 @@ html,input,select,button {
 	font-family: var(--nc-font-sans);
 }
 
+html { 
+  background: url(d3.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 body {
 	/* Center body in page */
 	margin: 0 auto;
@@ -81,10 +89,9 @@ body {
 	overflow-x: hidden;
 	word-break: break-word;
 	overflow-wrap: break-word;
-	background: var(--nc-bg-1);
 
 	/* Main body text */
-	color: var(--nc-tx-2);
+	color: var(--nc-tx-1);
 	font-family: var(--nc-font-sans);
 	font-size: 1.03rem;
 	line-height: 1.5;
@@ -143,12 +150,12 @@ h6 {
 }
 
 a {
-	color: var(--nc-tx-2);
+	color: var(--nc-tx-1);
 	text-decoration: none;
 }
 
 a:hover {
-	color: var(--nc-lk-2);
+	color: var(--nc-d-tx-1);
 }
 
 strong {
@@ -351,7 +358,7 @@ dd::before {
 hr {
 	/* Reset the border of the <hr> separator, then set a better line */
 	border: 0;
-	border-bottom: 1px solid var(--nc-tx-2);
+	border-bottom: 1px solid var(--nc-tx-1);
 	margin: 1rem auto;
 }
 
