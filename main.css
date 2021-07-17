@@ -1,5 +1,5 @@
 :root {
-	--nc-font-sans: 'Source Sans Pro', sans-serif;
+	--nc-font-sans: 'Source Code Pro', monospace;
 	--nc-font-mono: Consolas, monaco, 'Ubuntu Mono', 'Liberation Mono', 'Courier New', Courier, monospace;
 
 	/* Light theme */
